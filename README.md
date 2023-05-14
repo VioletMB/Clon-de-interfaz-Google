@@ -1,8 +1,8 @@
 # Clonación de la interfaz de Google crado con HTLM5 y CSS3 en el bootcamp de Tecnolochicas PRO 💜
 ## ÍNDICE 
-* ⭐[1. Intro](https://github.com/VioletMB/Clon-de-interfaz-Google/edit/main/README.md#3-objetivo-del-proyecto)
-* ⭐[2. ¿Qué construí?](https://github.com/VioletMB/Clon-de-interfaz-Google/edit/main/README.md#3-objetivo-del-proyecto)
-* ⭐[3. Objetivo del proyecto](https://github.com/VioletMB/Clon-de-interfaz-Google/edit/main/README.md#3-objetivo-del-proyecto)
+* ⭐[1. Intro](#)
+* ⭐[2. ¿Qué construí?](#)
+* ⭐[3. Objetivo del proyecto](#)
 
 
 ****
